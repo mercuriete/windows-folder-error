@@ -1,0 +1,7 @@
+image: Visual Studio 2015
+
+before_build:
+- dir
+
+build:
+
