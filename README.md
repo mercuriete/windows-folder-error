@@ -5,7 +5,7 @@ ____________
 
 | Linux  | Windows |
 | ------------- | ------------- |
-| [![Build Status](https://travis-ci.org/mercuriete/windows-folder-error.svg?branch=master)](https://travis-ci.org/mercuriete/windows-folder-error)  | [![Build status](https://ci.appveyor.com/api/projects/status/y27b2f3idgc8qm2j?svg=true)](https://ci.appveyor.com/project/mercuriete/windows-folder-error) |
+| [![Build Status](https://travis-ci.org/mercuriete/windows-folder-error.svg?branch=master)](https://travis-ci.org/mercuriete/windows-folder-error)  | [![Build status](https://ci.appveyor.com/api/projects/status/y27b2f3idgc8qm2j/branch/master?svg=true)](https://ci.appveyor.com/project/mercuriete/windows-folder-error) |
 
 Explanation
 ___________
